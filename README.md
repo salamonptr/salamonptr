@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salamonptr.
-- 👀 I’m interested in web development and software testing.
-- 🌱 I’m currently learning web development and software testing.
+- 👀 I’m interested in software development and software testing.
+- 🌱 I’m currently learning software development and software testing.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : salamonpeter93@gmail.com
 
